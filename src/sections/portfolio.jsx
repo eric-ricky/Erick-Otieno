@@ -1,8 +1,8 @@
 import React from "react";
 
-import Medihos from "../assets/images/medi1.png";
-import Lopa from "../assets/images/lopa1.png";
-import Food from "../assets/images/food1.png";
+import Medihos from "../assets/images/medi1.PNG";
+import Lopa from "../assets/images/lopa1.PNG";
+import Food from "../assets/images/food1.PNG";
 
 const projects = [
   {
